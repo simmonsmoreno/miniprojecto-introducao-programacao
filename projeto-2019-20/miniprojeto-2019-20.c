@@ -1,6 +1,5 @@
 /*
 **Curso:Engenheria Informatica e de Computadores
-**Projeto feito por: Edmilse Tavares e Mayra Rodrigues
 **/
 
 #include <stdio.h>
