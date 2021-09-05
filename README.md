@@ -4,14 +4,14 @@ Miniprojecto da disciplina de Introdução a Programação realizada na linguage
 O miniprojecto tem como objetivo aprofundar os seus conhecimentos na linguagem de programação C, colocando em prática os conhecimentos já adquiridos, desde estruturas
 condicionadas, de repetição e estruturas de múltiplas escolhas, funções e procedimentos, etc. Para tal irá desenvolver um programa em C, baseando em funções, com a seguinte estrutura:
 
-Ao executar o programa deverá ser apresentado o seguinte menu de opções:
--1 - Diferença da Soma dos Quadrados
--2 - Simplificação das Frações
--3 - Operação entre Números Binários
--4 - Problema dos Sucessores
--5 - Dados Estatísticos
--6 - Sopa de letras na formação de palavras
--7 - Sair.
+Ao executar o programa deverá ser apresentado o seguinte menu de opções: </br>
+<h3> 1 - Diferença da Soma dos Quadrados </h3>
+<h3> 2 - Simplificação das Frações </h3>
+<h3> 3 - Operação entre Números Binários </h3>
+<h3> 4 - Problema dos Sucessores </h3>
+<h3> 5 - Dados Estatísticos </h3>
+<h3> 6 - Sopa de letras na formação de palavras </h3>
+<h3> 7 - Sair. </h3>
 
 O utilizador escolhe entre uma destas opções:
 
@@ -23,7 +23,8 @@ O utilizador escolhe entre uma destas opções:
 
 4- Faça um programa que solicite números inteiros I (−4000 <= I <= 4000) enquanto I for diferente de zero. Quando I for zero o programa deve imprimir todos os sucessores inteiros imediatos de cada I informado. Observe que neste problema não há um limite para a quantidade de números I informados.
 
-5- Escrever um programa que determine o histograma, media e desvio padrão de um vetor de reais. O histograma representa, num vetor apropriado, o numero de ocorrências dos n elementos do vetor em cada um de k intervalos de largura (max(x) – min(x))/k. O desvio padrão, s, é uma medida de dispersão dos elementos de x em torno da media, m , e é definido como:
+5- Escrever um programa que determine o histograma, media e desvio padrão de um vetor de reais. O histograma representa, num vetor apropriado, o numero de ocorrências dos n elementos do vetor em cada um de k intervalos de largura (max(x) – min(x))/k. O desvio padrão, s, é uma medida de dispersão dos elementos de x em torno da media, m , e é definido como: </br>
+
 ![image](https://user-images.githubusercontent.com/49438293/132130209-652efe78-8ed5-4908-8451-799384a041d8.png)
 
 
@@ -37,14 +38,14 @@ Miniproject of the Introduction to Programming course done in C language in my f
 
 The miniproject aims to deepen your knowledge of the C programming language, putting into practice the programming language, putting into practice the knowledge already acquired, from conditional conditional, repetition and multiple choice structures, functions and procedures etc. To do this you will develop a C program, based on functions, with the following structure:
 
-When you run the program you should be presented with the following menu of options:
--1 - Difference of the Sum of Squares
--2 - Simplification of Fractions
--3 - Operation between Binary Numbers
--4 - Successor problem
--5 - Statistical Data
--6 - Word formation letter soup
--7 - Exit.
+When you run the program you should be presented with the following menu of options: </br>
+<h3> 1 - Difference of the Sum of Squares </h3>
+<h3> 2 - Simplification of Fractions </h3>
+<h3> 3 - Operation between Binary Numbers </h3>
+<h3> 4 - Successor problem </h3>
+<h3> 5 - Statistical Data </h3>
+<h3> 6 - Word formation letter soup </h3>
+<h3> 7 - Exit. </h3>
 
 The user chooses between one of these options:
 
@@ -56,7 +57,8 @@ The user chooses between one of these options:
 
 4- Make a program that asks for integers I (-4000 <= I <= 4000) while I is non-zero. When I is zero the program should print all the immediate integer successors of each I entered. Notice that in this problem there is no limit to the number of I numbers entered.
 
-5- Write a program that determines the histogram, mean and standard deviation of a vector of reals. The histogram represents, in an appropriate vector, the number of occurrences of n elements of the vector in each of k width intervals (max(x) - min(x))/k. The standard deviation, s, is a measure of dispersion of the elements of x around the mean, m , and is defined as:
+5- Write a program that determines the histogram, mean and standard deviation of a vector of reals. The histogram represents, in an appropriate vector, the number of occurrences of n elements of the vector in each of k width intervals (max(x) - min(x))/k. The standard deviation, s, is a measure of dispersion of the elements of x around the mean, m , and is defined as: </br>
+
 ![image](https://user-images.githubusercontent.com/49438293/132130209-652efe78-8ed5-4908-8451-799384a041d8.png)
 
 6- Make a program capable of accepting a string S and a group of N words P. For each word entered, it must be verified the possibility of forming it with the letters of the string entered. Consider that: The words will be typed in lowercase letters and each element of P will have a maximum size of 100 characters. For each element of P, if it is possible to form it with the characters from S the program should answer OK, otherwise -1.
