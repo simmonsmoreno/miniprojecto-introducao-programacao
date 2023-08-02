@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 #include <math.h>
-#include<string.h>
+#include <string.h>
 
 //declaracao de funcoes
 void sucessoes();
